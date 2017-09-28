@@ -17,3 +17,9 @@ Helpful Reading Material
 - [Google Search for "spaces in filename"][]
 
 [Google Search for "spaces in filename"]: https://www.google.com/search?q=spaces+in+filename
+
+
+<hr />
+## Solution
+cat "spaces in this filename"
+<br />
