@@ -24,3 +24,4 @@ Helpful Reading Material
 ## Solution
 cat "spaces in this filename"
 <br />
+Password: UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
