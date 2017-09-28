@@ -25,7 +25,8 @@ Helpful Reading Material
 [Secure Shell (SSH) on Wikipedia]: http://en.wikipedia.org/wiki/Secure_Shell
 [How to use SSH on wikiHow]: http://www.wikihow.com/Use-SSH
 
-Solution
+----------------------
+Solution <br />
 ssh bandit0@@bandit.labs.overthewire.org -p 2220
-
+<br />
 -p command specifies the port number
