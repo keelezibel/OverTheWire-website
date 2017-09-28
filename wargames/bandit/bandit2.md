@@ -21,7 +21,8 @@ Helpful Reading Material
 [Advanced Bash-scripting Guide - Chapter 3 - Special Characters]: http://tldp.org/LDP/abs/html/special-chars.html
 
 <hr />
-#Solution
+
+#  Solution
 cat <-
 <br />
 This uses redirection operator
