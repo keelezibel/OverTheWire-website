@@ -24,3 +24,8 @@ Helpful Reading Material
 [Level 1]: /wargames/bandit/bandit1.html
 [Secure Shell (SSH) on Wikipedia]: http://en.wikipedia.org/wiki/Secure_Shell
 [How to use SSH on wikiHow]: http://www.wikihow.com/Use-SSH
+
+Solution
+ssh bandit0@@bandit.labs.overthewire.org -p 2220
+
+-p command specifies the port number
