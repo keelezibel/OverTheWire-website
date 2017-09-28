@@ -13,3 +13,12 @@ Commands you may need to solve this level
 -----------------------------------------
 ls, cd, cat, file, du, find
 
+- - -
+
+## Solution
+```
+ls -la
+file ./-*
+cat ./-file07
+```
+Password: koReBOKuIDDepwhWk7jZC0RTdopnAYKh
