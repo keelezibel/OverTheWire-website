@@ -12,3 +12,10 @@ Commands you may need to solve this level
 -----------------------------------------
 ls, cd, cat, file, du, find
 
+<hr /> 
+
+## Solution
+ls -a 
+<br />
+-a flag lists all files in directory <br />
+Password: pIwrPrtPN36QITSp3EQaw936yaFoFgAB
