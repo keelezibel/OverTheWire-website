@@ -13,3 +13,10 @@ Commands you may need to solve this level
 -----------------------------------------
 grep, sort, uniq, strings, base64, tr, tar, gzip, bzip2, xxd
 
+- - - -
+
+# Solution
+```
+strings data.txt | grep "="
+```
+Password: truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk
