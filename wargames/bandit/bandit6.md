@@ -15,3 +15,10 @@ Commands you may need to solve this level
 -----------------------------------------
 ls, cd, cat, file, du, find
 
+- - - -
+
+# Solution
+```
+find . -type f -size 1033c ! -executable -exec file {} + | grep ASCII
+```
+Password: DXjZPULLxYr17uwoI01bNLQbtFemEgo7
