@@ -15,3 +15,10 @@ Commands you may need to solve this level
 -----------------------------------------
 ls, cd, cat, file, du, find, grep
 
+<hr />
+
+# Solution
+```
+find / -size 33c -group bandit6 -user bandit7 2>/dev/null
+```
+Password: HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
