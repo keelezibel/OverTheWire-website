@@ -17,3 +17,15 @@ Helpful Reading Material
 - [The unix commandline: pipes and redirects][]
 
 [The unix commandline: pipes and redirects]: http://www.westwind.com/reference/os-x/commandline/pipes.html
+
+- - - -
+
+# Solution
+```
+cat data.txt | sort | uniq -u   
+```
+OR 
+```
+cat data.txt | sort | uniq -c | sort -nr
+```
+Password: UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
