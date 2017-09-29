@@ -17,3 +17,11 @@ Helpful Reading Material
 - [Base64 on Wikipedia][]
 
 [Base64 on Wikipedia]: http://en.wikipedia.org/wiki/Base64
+
+- - - -
+
+## Solution
+```
+cat data.txt | base64 --decode
+```
+Password: IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
